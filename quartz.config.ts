@@ -84,7 +84,12 @@ const config: QuartzConfig = {
         enableSiteMap: true,
         enableRSS: false,
       }),
-      Plugin.Assets(),
+      // Link to the custom Blue Topaz CSS file
+      Plugin.Assets({
+        extraFiles: [
+          "assets/custom.css",  // This will include the Blue Topaz CSS
+        ],
+      }),
       Plugin.Static(),
       Plugin.NotFoundPage(),
     ],
