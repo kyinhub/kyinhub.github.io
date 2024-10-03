@@ -1,7 +1,8 @@
 ---
-title: Whats up
-descrption: index
+title: "Welcome to My Site"
+description: "This is the homepage of my Quartz site."
 ---
-### howdy
 
-Homepage
+# Welcome to My Quartz Site
+
+This is the homepage content. Customize this to suit your site.
