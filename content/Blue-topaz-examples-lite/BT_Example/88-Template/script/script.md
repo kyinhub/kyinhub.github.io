@@ -6,6 +6,6 @@ obsidianUIMode: preview
 %% Begin Waypoint %%
 - **[[script]]**
 	- [[script]]
-	- **[[template]]**
+	- **[[Blue-topaz-examples-lite/BT_Example/88-Template/script/template/template]]**
 
 %% End Waypoint %%

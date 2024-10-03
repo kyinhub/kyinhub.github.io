@@ -37,6 +37,6 @@ obsidianUIMode: preview
 		- [[README]]
 		- [[view.css]]
 		- [[view.js]]
-	- **[[template]]**
+	- **[[Blue-topaz-examples/88-Template/script/template/template]]**
 
 %% End Waypoint %%

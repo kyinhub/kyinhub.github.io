@@ -4,7 +4,7 @@ tag: moc
 obsidianUIMode: preview
 --- `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh` 
 %% Begin Waypoint %%
-- **[[template]]**
+- **[[Blue-topaz-examples/88-Template/script/template/template]]**
 
 
 %% End Waypoint %%
